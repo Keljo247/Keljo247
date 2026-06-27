@@ -1,4 +1,4 @@
-# Hi there, I'm Michael Joe Mara! "Keljo" for short👋
+# Hi there, I'm Michael Joe Mara!👋
 
 I am an **Information Technology Student** passionate about bridging the gap between digital code and the physical world. I specialize in building responsive web applications, mobile apps, and smart hardware prototypes.
 
